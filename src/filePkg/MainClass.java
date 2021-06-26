@@ -15,7 +15,7 @@ public class MainClass {
     
     public static void main(String[] args){
     File file = new File("C:\\Users\\SaiF El-deen\\Desktop\\JavaITI");
-    
+     
     String[] fileList = file.list();
     
     System.out.println("________________The List of Files / Folders Started_________________");
